@@ -204,7 +204,7 @@ const data = {
                 {
                     type: Demopage.supportedControls.FileDownload,
                     id: "instructions-download-id",
-                    label: "Download instructions (beta)",
+                    label: "Tai ban Huong Dan",
                     flat: false
                 }
             ]
