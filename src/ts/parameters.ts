@@ -25,8 +25,8 @@ enum EShape {
 }
 
 enum EMode {
-    MONOCHROME = "0",
-    COLORS = "1",
+    MONOCHROME = "1",
+    COLORS = "0",
 }
 
 type Observer = () => unknown;
