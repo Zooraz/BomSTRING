@@ -205,7 +205,7 @@ const data = {
                     type: Demopage.supportedControls.FileDownload,
                     id: "instructions-download-id",
                     label: "Download instructions (beta)",
-                    flat: true
+                    flat: false
                 }
             ]
         }
